@@ -1,4 +1,4 @@
-# macOS-fn-key-trigger
+# (macOS) Fn (F1, F2, ...) Keys Trigger On/Off
 
 Fellow Mac Gamers!!!
 
